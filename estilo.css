@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&family=Roboto+Mono:wght@300&display=swap');
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Inter', sans-serif;
+  background-color: #d5d5d5;
+}
+
+header {
+  text-align: center;
+  padding: 3vh;
+  background-color: #8b0000;
+  color: white;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 1.8vw;
+  font-size: 5.3ch;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 1vw;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 2vw;
+}
+
+#descricao {
+  padding: 3vh;
+  font-size: 2.5vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+h3 {
+  font-size: 2vw;
+  margin-top: 2vh;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 50vh;
+  width: 83vw;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  max-height: 53vh;
+}
+
+p {
+  font-size: 1.4vw;
+  padding: 1.8vh 7vw;
+  text-align: justify;
+  margin-bottom: 0.4vw;
+}
+
+
+
+* 
+{
+  margin: 0;
+  padding: 0;
+}
+
+h2 
+{
+  padding: 1vw;
+  text-align: center;
+  font-size: 3ch;
+}
+
+#descricao 
+{
+  margin-top: 1vw;
+}
+
+
+nav ul 
+{
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0;
+  background-color: #d5d5d5;
+  text-align: center;
+}
+
+nav ul li a 
+{
+  text-decoration: none;
+  color: #333;
+  font-size: 3ch;
+}
+
+nav ul li a:hover 
+{
+  background-color: #ddd;
+}
+
+div
+{
+  text-align: justify;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 90vw;
+  min-width: 50vw;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+
+figure
+{
+  display: flex;
+  justify-content: center;
+}
+
+figure img
+{
+  width: 90vw;
+}
+
+
+
+/* CHEGAR */
+
+#descricao {
+  padding: 3vh;
+  font-size: 2.5vw;
+}
+
+.section{
+  color: #000;
+}
+
+.container {
+  text-align: justify;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 65vw;
+  box-sizing: border-box;
+  margin: 0 auto;
+  border: #000 0.5vh solid;
+  margin-bottom: 5vh;
+  background-color: #fff;
+}
+
+h3 {
+  font-size: 3.5vw;
+  margin-top: 2vh;
+  text-align: justify;
+}
+figure
+{
+  display: flex;
+  justify-content: center;
+}
+
+figure img
+{
+  width: 50vw;
+
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  max-height: 40vh;
+}
+
+.text{
+  font-size: 2vw;
+  padding: 2vh 3vw;
+  text-align: justify;
+}
+
+
+/* CHEGAR */
